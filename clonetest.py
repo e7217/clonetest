@@ -1,2 +1,1 @@
-print "hello git"
-print "modified git"
+version 2
